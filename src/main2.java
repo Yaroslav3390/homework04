@@ -4,6 +4,12 @@ public class main2 {
         Calculator calculator = new Calculator();
 
        int addition = calculator.addition (1, 3);
+        System.out.println(addition);
+
+        boolean isGreter = calculator.isGreater(5,6);
+        System.out.println(isGreter);
+
+
 
         }
 

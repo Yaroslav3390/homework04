@@ -4,6 +4,12 @@ public class Calculator {
      int result = num1 + num2;
      return result;
     }
+    public boolean isGreater(double num3, double num4) {
+
+   boolean b = num3 > num4;
+   return b;
+    }
+
 
 
 
