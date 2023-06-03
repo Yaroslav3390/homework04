@@ -6,8 +6,8 @@ public class main2 {
        int addition = calculator.addition (1, 3);
         System.out.println(addition);
 
-        boolean isGreter = calculator.isGreater(5,6);
-        System.out.println(isGreter);
+        boolean isGreatereter = calculator.isGreater(5,6);
+        System.out.println(isGreatereter);
 
 
 
