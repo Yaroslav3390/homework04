@@ -1,17 +1,19 @@
 public class Car {
-    String brand, model;
+    String brand;
+    String model;
     int year;
-    public void startEngine()
-    {
+
+    public void startEngine() {
 
         System.out.println("Двигатель автомобиля запущен ");
     }
-    public void stopEngine(){
+
+    public void stopEngine() {
         System.out.println("Двигатель автомобиля остановлен ");
 
     }
 
-    }
+}
 
 
 

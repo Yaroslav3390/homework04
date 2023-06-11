@@ -1,18 +1,13 @@
 public class Calculator {
 
-    public int addition(int num1, int num2){
-     int result = num1 + num2;
-     return result;
+    public int addition(int num1, int num2) {
+        return num1 + num2;
     }
+
     public boolean isGreater(double num3, double num4) {
 
-   boolean b = num3 > num4;
-   return b;
+        return num3 > num4;
     }
-
-
-
-
 
 
 }

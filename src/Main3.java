@@ -1,4 +1,4 @@
-public class main3 {
+public class Main3 {
     public static void main(String[] args) {
 
         NumberManipulator manipulator = new NumberManipulator();
@@ -6,7 +6,7 @@ public class main3 {
         int number = 5;
         System.out.println("Initial number: " + number);
         int incrementedNumber = manipulator.incrementByOne(number);
-        System.out.println("Number after increment: " +incrementedNumber);
+        System.out.println("Number after increment: " + incrementedNumber);
 
         int number1 = 7;
         System.out.println("Initial number: " + number1);

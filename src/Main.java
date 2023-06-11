@@ -1,5 +1,5 @@
-public class main {
-    public static void main(String[]args){
+public class Main {
+    public static void main(String[] args) {
 
         Car car = new Car();
         car.startEngine();
@@ -9,7 +9,7 @@ public class main {
         car.year = 2022;
         System.out.println("brand: " + car.brand);
         System.out.println("model: " + car.model);
-        System.out.println("year: " +car.year);
+        System.out.println("year: " + car.year);
     }
 
 }
