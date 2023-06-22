@@ -5,9 +5,9 @@ public class NumberManipulator {
         return number;
     }
 
-    public int decrementByOne(int number1) {
-        number1--;
-        return number1;
+    public int decrementByOne(int number) {
+        number--;
+        return number;
 
     }
 
